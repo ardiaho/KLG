@@ -1,0 +1,15 @@
+*.pptx
+*.xlsx
+~$*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+.env
+.claude/settings.local.json
+
+zabap.env
+.mcp.json
+zabap-300.env
+Credentials.txt
